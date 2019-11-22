@@ -1,0 +1,7 @@
+1,Janusz,M
+2,Marian,M
+3,Klara,K
+4,Bonita,K
+5,Zenon,M
+6,Judyta,K
+7,Zenobiusz,M
